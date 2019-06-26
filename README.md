@@ -1,2 +1,2 @@
 # hello_world
-First respo. Learning Git and GitHub.
+First repo. Learning Git and GitHub.
